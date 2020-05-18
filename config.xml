@@ -30,7 +30,6 @@
 		<icon qualifier="mdpi" src="res/mipmap-mdpi/ic_launcher.png" />
 		<icon qualifier="xhdpi" src="res/mipmap-xhdpi/ic_launcher.png" />
 		<icon qualifier="xxhdpi" src="res/mipmap-xxhdpi/ic_launcher.png" />
-		<icon qualifier="xxxhdpi" src="res/mipmap-xxxhdpi/ic_launcher.png" />
 	</platform>
 	<access origin="*" />
 	<!-- Added the following intents to support the removal of whitelist code from base cordova to a plugin -->
