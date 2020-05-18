@@ -24,7 +24,7 @@
 		<splash qualifier="port-hdpi" src="res/screen/hdpi.png" />
 		<splash qualifier="port-ldpi" src="res/screen/ldpi.png" />
 		<splash qualifier="port-mdpi" src="res/screen/mdpi.png" />
-		<splash qualifier="port-xhdpi" src="res/screen/xxhdpi.png" />
+		<splash qualifier="port-xhdpi" src="res/screen/xhdpi.png" />
 		<icon qualifier="hdpi" src="res/mipmap-hdpi/ic_launcher.png" />
 		<icon qualifier="ldpi" src="res/mipmap-ldpi/ic_launcher.png" />
 		<icon qualifier="mdpi" src="res/mipmap-mdpi/ic_launcher.png" />
