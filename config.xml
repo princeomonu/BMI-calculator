@@ -25,11 +25,12 @@
 		<splash qualifier="port-ldpi" src="res/screen/ldpi.png" />
 		<splash qualifier="port-mdpi" src="res/screen/mdpi.png" />
 		<splash qualifier="port-xhdpi" src="res/screen/xhdpi.png" />
-		<icon qualifier="hdpi" src="res/mipmap-hdpi/ic_launcher.png" />
-		<icon qualifier="ldpi" src="res/mipmap-ldpi/ic_launcher.png" />
-		<icon qualifier="mdpi" src="res/mipmap-mdpi/ic_launcher.png" />
-		<icon qualifier="xhdpi" src="res/mipmap-xhdpi/ic_launcher.png" />
-		<icon qualifier="xxhdpi" src="res/mipmap-xxhdpi/ic_launcher.png" />
+		<icon qualifier="hdpi" src="res/android/mipmap-hdpi/ic_launcher.png" />
+		<icon qualifier="ldpi" src="res/android/mipmap-ldpi/ic_launcher.png" />
+		<icon qualifier="mdpi" src="res/android/mipmap-mdpi/ic_launcher.png" />
+		<icon qualifier="xhdpi" src="res/android/mipmap-xhdpi/ic_launcher.png" />
+		<icon qualifier="xxhdpi" src="res/android/mipmap-xxhdpi/ic_launcher.png" />
+		<icon qualifier="xxxhdpi" src="res/android/mipmap-xxxhdpi/ic_launcher.png" />
 	</platform>
 	<access origin="*" />
 	<!-- Added the following intents to support the removal of whitelist code from base cordova to a plugin -->
